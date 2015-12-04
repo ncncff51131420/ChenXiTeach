@@ -9,7 +9,9 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+/**
+ *  谢谢你
+ */
 @end
 
 @implementation AppDelegate
